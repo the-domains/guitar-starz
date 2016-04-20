@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2598566
+color:
+  saturation: 0.6660693
+  lightness: 0.7222221
+  brandStrength: 0.1188769
+  brandColors:
+    - '#FFFDFF'
+    - '#0A0712'
+    - '#EE6602'
+    - '#C29D67'
+    - '#9D3613'
+  rhythmicContrast: 0.5919952
+name: Guitar Starz
