@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.2598566
 color:
   saturation: 0.6660693
   brandStrength: 0.1188769
   lightness: 0.7222221
   brandColors:
-    - '#FFFDFF'
-    - '#0D0A15'
-    - '#F46F06'
-    - '#FFAD71'
-    - '#056F34'
+    - '#FFFFFF'
+    - '#231F20'
+    - '#7A7879'
+    - '#CAC8C9'
+    - '#595758'
   rhythmicContrast: 0.5919952
+typography_spectrum: 0.2598566
 layout_spectrum: 1
 name: Guitar Starz
