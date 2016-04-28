@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.2598566
 color:
   saturation: 0.6660693
   brandStrength: 0.1188769
   lightness: 0.7222221
   brandColors:
-    - '#000000'
-    - '#303133'
-    - '#666769'
-    - '#EAEBED'
-    - '#C69758'
+    - '#110205'
+    - '#5B4D4C'
+    - '#FF008F'
+    - '#FFC3FF'
+    - '#FF49FF'
   rhythmicContrast: 0.5919952
 layout_spectrum: 1
 name: Guitar Starz
