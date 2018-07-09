@@ -1,3 +1,13 @@
+name: Guitar Starz
+analytics:
+  twitter: '#PowerStrat'
+purpose:
+  - type: external
+    url: 'Http://YouTube.com/guitarstarz'
+    label: 'Http://YouTube.com/guitarstarz'
+github: true
+description: 'Everything. Guitar. '
+author: {}
 collections:
   - index:
       path: /
@@ -10,17 +20,21 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.2598566
+content: []
+layout_spectrum: 1
 color:
-  saturation: 0.6660693
-  brandStrength: 0.1188769
-  lightness: 0.7222221
+  lightness: 0.6847476
   brandColors:
     - '#110205'
     - '#5B4D4C'
     - '#FF008F'
     - '#FFC3FF'
     - '#FF49FF'
-  rhythmicContrast: 0.5919952
-layout_spectrum: 1
-name: Guitar Starz
+  saturation: 0.7502685
+  brandStrength: 0.1188769
+  rhythmicContrast: 0.6654136
+content_rating:
+  adult: false
+typography_spectrum: 0.2598566
+opengraph: {}
+title: GUITAR STARZ
